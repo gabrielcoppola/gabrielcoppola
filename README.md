@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Coppola👋
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-coppola-043480173/)
-[![image](https://www.codewars.com/users/gabrielcoppola/badges/micro)](http://google.com.au/)
+[![image](https://www.codewars.com/users/gabrielcoppola/badges/micro)](https://www.codewars.com/users/gabrielcoppola)
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"></br>
     <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
@@ -13,9 +13,7 @@
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springFramework"/>
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-    <img align="center" src="https://www.codewars.com/users/gabrielcoppola/badges/micro" alt="git"/>
 </div>
 </br>
-![image](https://www.codewars.com/users/gabrielcoppola/badges/large)
 Entusiasta e estudante de tecnologia, educação e por mudar completamente a vida das pessoas através da programação.
 
