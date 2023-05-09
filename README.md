@@ -13,6 +13,8 @@
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springFramework"/>
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <img align="center" src="https://www.codewars.com/users/gabrielcoppola/badges/micro" alt="git"/>
+
 </div>
 </br>
 <img align="center" src="https://www.codewars.com/users/gabrielcoppola/badges/large" alt="git"/>
