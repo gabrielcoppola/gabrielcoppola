@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Coppola👋
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-coppola-043480173/)
-![image](https://www.codewars.com/users/gabrielcoppola/badges/small)
+[![image](https://www.codewars.com/users/gabrielcoppola/badges/micro)](http://google.com.au/)
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"></br>
     <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
