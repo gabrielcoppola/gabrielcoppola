@@ -15,7 +15,6 @@
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </div>
 </br>
-[![Codewars](https://github.r2v.ch/codewars?user=gabrielcoppola)](https://www.codewars.com/users/gabrielcoppola/badges/micro
-)
+![Codewars](https://www.codewars.com/users/gabrielcoppola/badges/micro)
 Entusiasta e estudante de tecnologia, educação e por mudar completamente a vida das pessoas através da programação.
 
